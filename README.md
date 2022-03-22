@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
+[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=Rekidiang2&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
 
 
 
