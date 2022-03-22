@@ -1,6 +1,5 @@
-logo
-<h1 align="center">Kiese Diangebeni Reagan</h1>
-<h3 align="center">Data Science Analyst</h3>
+<a href="https://kiese.tech/"> <h1 align="center">www.kiese.tech</h1></a>
+
 
 
 [![alt text][1.1]][1]
