@@ -2,6 +2,7 @@ logo
 <h1 align="center">Kiese Diangebeni Reagan</h1>
 <h3 align="center">Data Science Analyst</h3>
 
+<p align="center">
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -17,3 +18,4 @@ logo
 [3]: https://github.com/Rekidiang2
 [4]: https://medium.com/@rkddatas
 
+</p>
