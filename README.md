@@ -18,6 +18,11 @@
 [4]: https://medium.com/@rkddatas
 [5]: https://kiese.tech/
 
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | 5234       |
+
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Rekidiang2&column=9&theme=gruvbox&no-frame=true"/>
 
