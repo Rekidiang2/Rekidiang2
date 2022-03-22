@@ -5,7 +5,7 @@
 - 📫 How to reach me www.kiese.tech
 
 // README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&theme=highcontrast&show_icons=true&count_private=true)
 
 ![](https://www.canva.com/design/DAE6ejDxzEw/BpEmqzc8OOH5lFUbcu6vbQ/view?utm_content=DAE6ejDxzEw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
