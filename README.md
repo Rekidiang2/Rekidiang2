@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Kiese Diangebeni Reagan
-- 👀 I’m Data and technology passionate person, Artificial Intelligence enthusiast, lifelong learner
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me www.kiese.tech
 
-// README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&theme=highcontrast&show_icons=true&count_private=true)
 
 ![](https://www.canva.com/design/DAE6ejDxzEw/BpEmqzc8OOH5lFUbcu6vbQ/view?utm_content=DAE6ejDxzEw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
@@ -52,10 +46,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Shin!</h2>
+<h1 align="center">Kiese Diangebeni Reagan</h1>
 
 
-<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/ReaganKiese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Rekidiang2&column=9&theme=gruvbox&no-frame=true"/>
