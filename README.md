@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me www.kiese.tech
 
+![](https://www.canva.com/design/DAE6ejDxzEw/BpEmqzc8OOH5lFUbcu6vbQ/view?utm_content=DAE6ejDxzEw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ### Kiese Diangebeni Reagan
 #### Data Science Analyst
 
