@@ -1,11 +1,6 @@
 
 ![](cover.png)
 
-
-<a href="https://kiese.tech/"> <P align="center">www.kiese.tech</P></a>
-
-
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
