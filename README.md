@@ -9,6 +9,13 @@
 
 ![](https://www.canva.com/design/DAE6ejDxzEw/BpEmqzc8OOH5lFUbcu6vbQ/view?utm_content=DAE6ejDxzEw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+
+// README.md
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekidiang2)
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekidiang2&layout=compact)
+
 ### Kiese Diangebeni Reagan
 #### Data Science Analyst
 
