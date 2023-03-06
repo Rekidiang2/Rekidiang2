@@ -7,7 +7,7 @@
 |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
 
 
-**Languages and Tools:**  
+**Languages, Tools and Skills:**  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
@@ -20,5 +20,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
+<code><img height="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_solidity.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 
 ![](https://komarev.com/ghpvc/?username=Rekidiang2)
