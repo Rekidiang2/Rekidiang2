@@ -21,7 +21,7 @@
 [2]: https://twitter.com/ReaganKiese
 [3]: https://github.com/Rekidiang2
 [4]: https://medium.com/@rkddatas
-[5]: https://kiese.tech/
+[5]: https://kiese.tech/ |
 
 **Languages and Tools:**  
 
