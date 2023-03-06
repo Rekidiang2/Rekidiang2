@@ -1,4 +1,11 @@
 
+
+
+|          |      |
+|--------------|-----------|
+|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
+**Let Keep in Touch:**
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -15,11 +22,6 @@
 [3]: https://github.com/Rekidiang2
 [4]: https://medium.com/@rkddatas
 [5]: https://kiese.tech/
-
-|          |      |
-|--------------|-----------|
-|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
-
 
 **Languages and Tools:**  
 
