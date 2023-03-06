@@ -3,29 +3,9 @@
 
 |          |      |
 |--------------|-----------|
-|## Let Keep in Touch|<code><a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="Twitter" width="100"/></a></code> <code><a href="https://www.linkedin.com/in/kiese-diangebeni-reagan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linkedin" width="100"/></a></code>
+|## Let Keep in Touch|<code><a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="Twitter" width="100"/></a></code> <code><a href="https://www.linkedin.com/in/kiese-diangebeni-reagan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linkedin" width="100"/></a></code> <code><a href="http://www.facebook.com/reagan.kiese.37" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" width="100"/></a></code> <code><a href="https://medium.com/@rkddatas" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="100"/></a></code>
 |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
-|**Let Keep in Touch:**|<code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code>
 
-[![alt text][1.1]][1]  
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-
-[1.1]: https://i.imgur.com/oFsAcMx.png (facebook icon with padding)
-[2.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
-[3.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
-[4.1]: https://i.imgur.com/UA7Oh6z.png (medium icon with padding)
-[5.1]: https://imgur.com/gallery/KzIH14p.png
-
-[1]: http://www.facebook.com/reagan.kiese.37
-[2]: https://twitter.com/ReaganKiese
-[3]: https://github.com/Rekidiang2
-[4]: https://medium.com/@rkddatas
-[5]: https://kiese.tech/
-
-
-<code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code>
 
 **Languages and Tools:**  
 
