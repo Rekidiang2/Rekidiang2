@@ -25,5 +25,6 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
+<code><img height="40" src="https://github.com/gilbarbara/logos/blob/main/logos/metamask-icon.svg"></code>
 
 ![](https://komarev.com/ghpvc/?username=Rekidiang2)
