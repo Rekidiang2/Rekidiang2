@@ -23,5 +23,7 @@
 <code><img height="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_solidity.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
 
 ![](https://komarev.com/ghpvc/?username=Rekidiang2)
