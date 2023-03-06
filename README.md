@@ -3,9 +3,8 @@
 
 |          |      |
 |--------------|-----------|
-|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)
-
-**Let Keep in Touch:**
+|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
+|**Let Keep in Touch:**|<code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code>
 
 [![alt text][1.1]][1]  
 [![alt text][2.1]][2]
