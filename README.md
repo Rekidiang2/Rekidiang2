@@ -3,7 +3,7 @@
 
 |          |      |
 |--------------|-----------|
-|## Let Keep in Touch|<code><a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="Twitter" width="100"/></a></code> <code><a href="https://www.linkedin.com/in/kiese-diangebeni-reagan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linkedin" width="100"/></a></code> <code><a href="http://www.facebook.com/reagan.kiese.37" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" width="100"/></a></code> <code><a href="https://medium.com/@rkddatas" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="100"/></a></code>
+|## Let Keep in Touch|<code><a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="60"/></a></code> <code><a href="https://www.linkedin.com/in/kiese-diangebeni-reagan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="60"/></a></code> <code><a href="http://www.facebook.com/reagan.kiese.37" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="60"/></a></code> <code><a href="https://medium.com/@rkddatas" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="60"/></a></code>
 |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
 
 
