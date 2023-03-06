@@ -3,7 +3,7 @@
 
 |          |      |
 |--------------|-----------|
-|## Let Keep in Touch|<code><a href="[https://www.w3schools.com](https://twitter.com/ReaganKiese)"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="bash" width="100"/></a></code> <code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="bash" width="100"/></a></code>
+|## Let Keep in Touch|<code><a href="https://twitter.com/ReaganKiese"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="bash" width="100"/></a></code> <code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="bash" width="100"/></a></code>
 |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
 |**Let Keep in Touch:**|<code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code>
 
