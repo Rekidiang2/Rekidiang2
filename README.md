@@ -22,7 +22,10 @@
 [2]: https://twitter.com/ReaganKiese
 [3]: https://github.com/Rekidiang2
 [4]: https://medium.com/@rkddatas
-[5]: https://kiese.tech/ 
+[5]: https://kiese.tech/
+
+
+<code><a href="https://www.w3schools.com"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="bash" width="40" height="40"/></a></code>
 
 **Languages and Tools:**  
 
