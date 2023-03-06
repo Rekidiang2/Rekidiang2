@@ -1,6 +1,4 @@
 
-![](cover.png)
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
