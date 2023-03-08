@@ -3,8 +3,12 @@
 
 |          |      |
 |--------------|-----------|
-|<h1 style="color:blue; text-align:center;">Let Keep in Touch</h1>|<code><a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="50"/></a></code> <code><a href="https://www.linkedin.com/in/kiese-diangebeni-reagan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="50"/></a></code> <code><a href="http://www.facebook.com/reagan.kiese.37" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="50"/></a></code> <code><a href="https://medium.com/@rkiese6" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="50"/></a></code>
-|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
+|<h1 style="color:blue; text-align:center;">Let Keep in Touch</h1>|
+<a href="https://github.com/Rekidiang2" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/github-logo.png" width="50"></a>
+<a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/linkedin-logo.png"></a>
+<a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/twitter-logo.png" width="50"></a>
+<a href="https://web.facebook.com/reagan.kiese.7"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/facebook-logo.png" width="50"></a>
+<a href="https://medium.com/@rkiese6" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png" width="50"></a> |
 
 
 **Languages, Tools and Skills:**  
