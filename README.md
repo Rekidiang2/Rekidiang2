@@ -1,10 +1,10 @@
 **Let Keep in Touch**
 
-<a href="https://github.com/Rekidiang2" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/github-logo.png" width="50"></a>
+<a href="https://github.com/Rekidiang2" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/github-logo.png"></a>
 <a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/linkedin-logo.png"></a>
-<a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/twitter-logo.png" width="50"></a>
-<a href="https://web.facebook.com/reagan.kiese.7"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/facebook-logo.png" width="50"></a>
-<a href="https://medium.com/@rkiese6" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png" width="50"></a>
+<a href="https://twitter.com/ReaganKiese" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/twitter-logo.png"></a>
+<a href="https://web.facebook.com/reagan.kiese.7"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/facebook-logo.png"></a>
+<a href="https://medium.com/@rkiese6" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png"></a>
 
 
 **Languages, Tools and Skills:**  
