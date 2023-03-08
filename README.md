@@ -6,6 +6,11 @@
 <a href="https://web.facebook.com/reagan.kiese.7"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/facebook-logo.png"></a>
 <a href="https://medium.com/@rkiese6" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png"></a>
 
+|          |      |      |
+|--------------|-----------|-----------|
+|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekidiang2&layout=compact)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
+
+
 
 **Languages, Tools and Skills:**  
 
