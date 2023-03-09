@@ -1,4 +1,4 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/kiese%20official%20banner.png)
 
 
 |          |      |      |
