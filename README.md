@@ -1,11 +1,6 @@
 ![GitHub Streak](https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/kiese%20official%20banner.png)
 
 
-|          |      |      |
-|--------------|-----------|-----------|
-|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekidiang2&layout=compact&theme=neon-palenight)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
-
----
 
 **Let Keep in Touch**
 
@@ -37,3 +32,10 @@
 <code><img height="40" src="https://github.com/gilbarbara/logos/blob/main/logos/metamask-icon.svg"></code>
 
 ![](https://komarev.com/ghpvc/?username=Rekidiang2)
+
+|          |      |      |
+|--------------|-----------|-----------|
+|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rekidiang2&theme=neon-palenight&hide_border=true)|![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekidiang2&layout=compact&theme=neon-palenight)|![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekidiang2&show_icons=true&theme=tokyonight)|
+
+---
+
