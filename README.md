@@ -1,4 +1,5 @@
-## Kiese Diangebeni Reagan : Blockchain & Web Developer | Data Scientist
+## Kiese Diangebeni Reagan
+> Blockchain & Web Developer | Data Scientist
 
 **Let Keep in Touch**
 
