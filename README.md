@@ -1,7 +1,7 @@
-## Kiese Diangebeni Reagan
-> Blockchain & Web Developer | Data Scientist
+### Kiese Diangebeni Reagan
+### Blockchain & Web Developer | Data Scientist
 
-**Let Keep in Touch**
+#### Let Keep in Touch :
 
 <a href="https://github.com/Rekidiang2" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/github-logo.png"></a>
 <a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/linkedin-logo.png"></a>
@@ -10,7 +10,7 @@
 <a href="https://medium.com/@rkiese6" target="_blank"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png"></a>
  ---
  
-**Languages, Tools and Skills:**  
+#### Languages, Tools and Skills:
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
