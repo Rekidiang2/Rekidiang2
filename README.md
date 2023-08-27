@@ -1,5 +1,6 @@
 ### Kiese Diangebeni Reagan
-**Blockchain & Web Developer | Data Scientist**
+**Blockchain | Artificial Intelligence | Data Scientist**
+Passionate about tech, AI, and blockchain, I'm dedicated to lifelong learning. Internet resources bridged my childhood limitations, fueling my aspiration to guide those with fewer resources, especially kids, in achieving tech dreams.
 
 #### Let Keep in Touch :
 
